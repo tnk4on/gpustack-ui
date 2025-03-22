@@ -1,13 +1,16 @@
 export default {
-  'shortcuts.search.placeholder': 'Search keybindings',
-  'shortcuts.title': 'Keyboard shortcuts',
-  'shortcuts.playground.newmessage': 'New message',
-  'shortcuts.playground.clearmessage': 'Clear messages',
-  'shortcuts.playground.toggleparams': 'Collapse/Expand parameters',
-  'shortcuts.models.newmodelHF': 'Deploy Hugging Face model',
-  'shortcuts.models.newmodelLM': 'Deploy Ollama model',
-  'shortcuts.models.search': 'Search models from Hugging Face',
-  'shortcuts.resources.addworker': 'Add worker',
-  'shortcuts.apikeys.new': 'New API key',
-  'shortcuts.users.new': 'New user'
+  'shortcuts.title': 'ショートカット',
+  'shortcuts.description': 'キーボードショートカットを設定します。',
+  'shortcuts.save': 'ショートカットを保存',
+  'shortcuts.reset': 'デフォルトにリセット',
+  'shortcuts.search.placeholder': 'キー設定を検索',
+  'shortcuts.playground.newmessage': '新しいメッセージ',
+  'shortcuts.playground.clearmessage': 'メッセージをクリア',
+  'shortcuts.playground.toggleparams': 'パラメータを折りたたむ/展開',
+  'shortcuts.models.newmodelHF': 'Hugging Faceモデルをデプロイ',
+  'shortcuts.models.newmodelLM': 'Ollamaモデルをデプロイ',
+  'shortcuts.models.search': 'Hugging Faceからモデルを検索',
+  'shortcuts.resources.addworker': 'ワーカーを追加',
+  'shortcuts.apikeys.new': '新しいAPIキー',
+  'shortcuts.users.new': '新しいユーザー'
 };
