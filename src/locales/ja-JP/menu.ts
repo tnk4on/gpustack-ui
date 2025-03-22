@@ -1,0 +1,21 @@
+export default {
+  'menu.dashboard': 'Dashboard',
+  'menu.playground': 'Playground',
+  'menu.playground.rerank': 'Rerank',
+  'menu.playground.embedding': 'Embedding',
+  'menu.playground.chat': 'Chat',
+  'menu.playground.speech': 'Audio',
+  'menu.playground.text2images': 'Image',
+  'menu.compare': 'Compare',
+  'menu.models': 'Models',
+  'menu.models.modelList': 'Deploy & Manage',
+  'menu.models.modelCatalog': 'Catalog',
+  'menu.models.catalog': 'Model Catalog',
+  'menu.modelCatalog': 'Catalog',
+  'menu.resources': 'Resources',
+  'menu.apikeys': 'API Keys',
+  'menu.users': 'Users',
+  'menu.profile': 'Profile',
+  'menu.login': 'Login',
+  'menu.usage': 'Usage'
+};

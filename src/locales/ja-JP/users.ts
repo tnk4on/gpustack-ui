@@ -1,0 +1,31 @@
+export default {
+  'users.title': 'Users',
+  'users.button.create': 'New User',
+  'users.form.edit': 'Edit User',
+  'users.form.create': 'New User',
+  'users.table.username': 'User Name',
+  'users.table.role': 'Role',
+  'users.form.fullname': 'Full Name',
+  'users.table.user': 'users',
+  'users.form.admin': 'Admin',
+  'users.form.user': 'User',
+  'users.form.newpassword': 'New Password',
+  'users.form.currentpassword': 'Current Password',
+  'users.form.updatepassword': 'Modify Password',
+  'users.form.rule.password':
+    'Contains uppercase and lowercase letters, numbers, and special characters(!@#$%^&*_+), 6 to 12 characters in length, no spaces allowed.',
+  'users.password.uppcase': 'At least one uppercase letter',
+  'users.password.lowercase': 'At least one lowercase letter',
+  'users.password.number': 'At least one number',
+  'users.password.special': 'At least one special character',
+  'users.password.length': 'Length between 6 and 12 characters',
+  'users.password.modify.title': 'Modify Password',
+  'users.password.modify.description':
+    "For your account's security, please change your initial password.",
+  'users.password.confirm': 'Confirm New Password',
+  'users.password.confirm.empty': 'Please confirm the new password.',
+  'users.password.confirm.error': 'The two passwords entered do not match.',
+  'users.login.title': 'Log in to',
+  'users.version.islatest': 'GPUStack {version} is the latest version',
+  'users.version.update': 'GPUStack {version} is available'
+};
