@@ -209,8 +209,8 @@ export default {
   'common.button.feedback': 'フィードバック',
   'common.button.docs': 'ドキュメント',
   'common.button.version': 'バージョン',
-  'common.title.delete.confirm': 'Confirm delete',
-  'common.title.stop.confirm': 'Confirm stop',
+  'common.title.delete.confirm': '削除を確認',
+  'common.title.stop.confirm': '停止を確認',
   'common.title.start.confirm': '開始を確認',
   'common.title.recreate.confirm': '再作成を確認',
   'common.button.addLabel': 'ラベルを追加',
@@ -233,11 +233,5 @@ export default {
   'common.button.moreInfo': '詳細情報',
   'common.text.warning': '警告',
   'common.text.error': 'エラー',
-  'common.text.tips': 'ヒント',
-  'common.save': '保存',
-  'common.cancel': 'キャンセル',
-  'common.delete': '削除',
-  'common.edit': '編集',
-  'common.confirm': '確認',
-  'common.search': '検索'
+  'common.text.tips': 'ヒント'
 };

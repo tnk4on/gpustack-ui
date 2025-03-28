@@ -1,9 +1,6 @@
 export default {
-  'shortcuts.title': 'ショートカット',
-  'shortcuts.description': 'キーボードショートカットを設定します。',
-  'shortcuts.save': 'ショートカットを保存',
-  'shortcuts.reset': 'デフォルトにリセット',
   'shortcuts.search.placeholder': 'キー設定を検索',
+  'shortcuts.title': 'ショートカット',
   'shortcuts.playground.newmessage': '新しいメッセージ',
   'shortcuts.playground.clearmessage': 'メッセージをクリア',
   'shortcuts.playground.toggleparams': 'パラメータを折りたたむ/展開',

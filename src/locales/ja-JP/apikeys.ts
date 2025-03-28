@@ -1,9 +1,5 @@
 export default {
   'apikeys.title': 'APIキー',
-  'apikeys.description': 'APIキーを管理します。',
-  'apikeys.create': '新しいAPIキーを作成',
-  'apikeys.delete': 'APIキーを削除',
-  'apikeys.edit': 'APIキーを編集',
   'apikeys.table.apikeys': 'keys',
   'apikeys.button.create': '新しいAPIキーを作成',
   'apikeys.title.save': 'Save API Key',

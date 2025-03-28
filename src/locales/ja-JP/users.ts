@@ -1,9 +1,5 @@
 export default {
   'users.title': 'ユーザー',
-  'users.description': 'ユーザーを管理します。',
-  'users.add': 'ユーザーを追加',
-  'users.delete': 'ユーザーを削除',
-  'users.edit': 'ユーザーを編集',
   'users.button.create': 'ユーザーを追加',
   'users.form.edit': 'ユーザーを編集',
   'users.form.create': 'ユーザーを追加',

@@ -1,9 +1,5 @@
 export default {
   'resources.title': 'リソース',
-  'resources.description': 'リソースを管理します。',
-  'resources.add': 'リソースを追加',
-  'resources.delete': 'リソースを削除',
-  'resources.edit': 'リソースを編集',
   'resources.nodes': 'ノード',
   'resources.button.create': 'ワーカーを追加',
   'resources.button.edit': 'ワーカーを編集',
@@ -27,7 +23,7 @@ export default {
     'システムは、事前定義されたラベルに基づいて、モデルインスタンスをデプロイするために最適なGPUまたはワーカーを選択します。',
   'resources.table.ip': 'IP',
   'resources.table.cpu': 'CPU',
-  'resources.table.memory': 'RAM',
+  'resources.table.memory': 'メモリ',
   'resources.table.gpu': 'GPU',
   'resources.table.disk': 'ストレージ',
   'resources.table.vram': 'VRAM',
